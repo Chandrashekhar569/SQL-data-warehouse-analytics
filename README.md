@@ -1,1 +1,1 @@
-# SQL-data-warehouse---analytics
+# SQL-data-warehouse-analytics
